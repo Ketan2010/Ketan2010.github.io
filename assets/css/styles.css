@@ -745,3 +745,36 @@ body::-webkit-scrollbar-thumb:active{
   }
 }
 
+/* Link Hover*/
+.udemy{
+	color: #8b72af;
+	font-weight: bold;
+}
+.udemy:hover {
+  
+  color: #ad92d1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
